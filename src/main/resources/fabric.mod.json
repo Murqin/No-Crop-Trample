@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "nocroptrample",
+	"version": "${version}",
+	"name": "No Crop Trample",
+	"description": "With this mod, your crops won't be trample.\n Ported: https://github.com/KettleMC-Network/SimpleNoCropTrample",
+	"authors": [
+		"Murqin"
+	],
+	"contact": {
+		"homepage": "",
+		"sources": "https://github.com/Murqin/No-Crop-Trample"
+	},
+	"license": "MIT",
+	"icon": "assets/nocroptrample/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.murqin.nocroptrample.NoCropTrample"
+		],
+		"client": [
+			"com.murqin.nocroptrample.NocroptrampleClient"
+		],
+		"modmenu": [
+    "com.murqin.nocroptrample.ModMenuIntegration"
+  ]
+
+	},
+	"mixins": [
+		"nocroptrample.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.8",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+	}
+}
