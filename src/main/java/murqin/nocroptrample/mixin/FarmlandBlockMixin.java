@@ -1,7 +1,7 @@
 // src/main/java/com/example/nocroptrample/mixin/FarmlandBlockMixin.java
-package com.murqin.nocroptrample.mixin;
+package murqin.nocroptrample.mixin;
 
-import com.murqin.nocroptrample.NoCropTrample; // Kendi paket adın ne ise o olmalı
+import murqin.nocroptrample.NoCropTrample; // Kendi paket adın ne ise o olmalı
 import net.minecraft.block.BlockState;
 import net.minecraft.block.FarmlandBlock;
 import net.minecraft.entity.Entity;

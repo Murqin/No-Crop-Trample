@@ -1,5 +1,5 @@
 // src/main/java/com/murqin/nocroptrample/ModMenuIntegration.java
-package com.murqin.nocroptrample;
+package murqin.nocroptrample;
 
 import com.terraformersmc.modmenu.api.ConfigScreenFactory;
 import com.terraformersmc.modmenu.api.ModMenuApi;

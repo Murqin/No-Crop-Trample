@@ -1,5 +1,5 @@
 // src/main/java/com/murqin/nocroptrample/ModConfigScreen.java
-package com.murqin.nocroptrample;
+package murqin.nocroptrample;
 
 import net.minecraft.client.gui.DrawContext;
 import net.minecraft.client.gui.screen.Screen;

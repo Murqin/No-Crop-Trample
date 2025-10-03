@@ -1,5 +1,5 @@
 // src/main/java/com/example/nocroptrample/NoCropTrample.java
-package com.murqin.nocroptrample;
+package murqin.nocroptrample;
 
 import net.fabricmc.api.ModInitializer;
 import org.slf4j.Logger;

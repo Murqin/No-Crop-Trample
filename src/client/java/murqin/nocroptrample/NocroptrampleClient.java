@@ -1,4 +1,4 @@
-package com.murqin.nocroptrample;
+package murqin.nocroptrample;
 
 import net.fabricmc.api.ClientModInitializer;
 

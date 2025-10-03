@@ -16,13 +16,13 @@
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"com.murqin.nocroptrample.NoCropTrample"
+			"murqin.nocroptrample.NoCropTrample"
 		],
 		"client": [
-			"com.murqin.nocroptrample.NocroptrampleClient"
+			"murqin.nocroptrample.NocroptrampleClient"
 		],
 		"modmenu": [
-    "com.murqin.nocroptrample.ModMenuIntegration"
+    "murqin.nocroptrample.ModMenuIntegration"
   ]
 
 	},
@@ -31,7 +31,7 @@
 	],
 	"depends": {
 		"fabricloader": ">=0.17.2",
-		"minecraft": "~1.21.8",
+		"minecraft": "~1.21.9",
 		"java": ">=21",
 		"fabric-api": "*"
 	},

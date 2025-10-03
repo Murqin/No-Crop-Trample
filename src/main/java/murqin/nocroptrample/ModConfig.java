@@ -1,6 +1,6 @@
 // src/main/java/com/murqin/nocroptrample/ModConfig.java
 
-package com.murqin.nocroptrample;
+package murqin.nocroptrample;
 
 import net.fabricmc.loader.api.FabricLoader;
 
